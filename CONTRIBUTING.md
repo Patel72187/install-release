@@ -25,3 +25,4 @@ Notes and usage details for install-release.
 - add a note about the defaults
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
